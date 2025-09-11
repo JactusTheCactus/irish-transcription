@@ -1,0 +1,20 @@
+{
+	"name": "irish-transcription",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JactusTheCactus/irish-transcription.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JactusTheCactus/irish-transcription/issues"
+	},
+	"homepage": "https://github.com/JactusTheCactus/irish-transcription#readme"
+}

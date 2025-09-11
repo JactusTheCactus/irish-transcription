@@ -1,0 +1,210 @@
+{
+	"a": {
+		"stressed": "a",
+		"unstressed": "u"
+	},
+	"\u00e1": {
+		"stressed": "a",
+		"unstressed": "a"
+	},
+	"ae": {
+		"stressed": "\u00e9",
+		"unstressed": "\u00e9"
+	},
+	"aei": {
+		"stressed": "\u00e9",
+		"unstressed": "\u00e9"
+	},
+	"ai": {
+		"stressed": "a",
+		"unstressed": "u"
+	},
+	"a\u00ed": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"\u00e1i": {
+		"stressed": "a",
+		"unstressed": "a"
+	},
+	"a\u00edo": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"ao": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"aoi": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"e": {
+		"stressed": "e",
+		"unstressed": "u"
+	},
+	"\u00e9": {
+		"stressed": "\u00e9",
+		"unstressed": "\u00e9"
+	},
+	"ea": {
+		"stressed": "a",
+		"unstressed": "u"
+	},
+	"e\u00e1": {
+		"stressed": "a",
+		"unstressed": "a"
+	},
+	"\u00e9a": {
+		"stressed": "\u00e9",
+		"unstressed": "\u00e9"
+	},
+	"eai": {
+		"stressed": "a",
+		"unstressed": "u"
+	},
+	"e\u00e1i": {
+		"stressed": "a",
+		"unstressed": "a"
+	},
+	"ei": {
+		"stressed": "e",
+		"unstressed": "u"
+	},
+	"\u00e9i": {
+		"stressed": "\u00e9",
+		"unstressed": "\u00e9"
+	},
+	"eo": {
+		"stressed": "\u00f3",
+		"unstressed": "\u00f3"
+	},
+	"eoi": {
+		"stressed": "\u00f3",
+		"unstressed": "\u00f3"
+	},
+	"i": {
+		"stressed": "i",
+		"unstressed": "u"
+	},
+	"\u00ed": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"ia": {
+		"stressed": "\u00edu",
+		"unstressed": "\u00edu"
+	},
+	"i\u00e1": {
+		"stressed": "\u00eda",
+		"unstressed": "\u00eda"
+	},
+	"iai": {
+		"stressed": "\u00edu",
+		"unstressed": "\u00edu"
+	},
+	"i\u00e1i": {
+		"stressed": "\u00eda",
+		"unstressed": "\u00eda"
+	},
+	"io": {
+		"stressed": "i",
+		"unstressed": "i"
+	},
+	"i\u00f3": {
+		"stressed": "\u00ed\u00f3",
+		"unstressed": "\u00ed\u00f3"
+	},
+	"\u00edo": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"i\u00f3i": {
+		"stressed": "\u00ed\u00f3",
+		"unstressed": "\u00ed\u00f3"
+	},
+	"iu": {
+		"stressed": "u\u030c",
+		"unstressed": "u\u030c"
+	},
+	"i\u00fa": {
+		"stressed": "\u00fa",
+		"unstressed": "\u00fa"
+	},
+	"i\u00fai": {
+		"stressed": "\u00fa",
+		"unstressed": "\u00fa"
+	},
+	"o": {
+		"stressed": "o",
+		"unstressed": "u"
+	},
+	"\u00f3": {
+		"stressed": "\u00f3",
+		"unstressed": "\u00f3"
+	},
+	"oi": {
+		"stressed": "e",
+		"unstressed": "u"
+	},
+	"o\u00ed": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"\u00f3i": {
+		"stressed": "\u00f3",
+		"unstressed": "\u00f3"
+	},
+	"o\u00edo": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"u": {
+		"stressed": "u\u030c",
+		"unstressed": "u"
+	},
+	"\u00fa": {
+		"stressed": "\u00fa",
+		"unstressed": "\u00fa"
+	},
+	"ua": {
+		"stressed": "\u00fau",
+		"unstressed": "\u00fau"
+	},
+	"u\u00e1": {
+		"stressed": "\u00faa",
+		"unstressed": "\u00faa"
+	},
+	"uai": {
+		"stressed": "\u00fau",
+		"unstressed": "\u00fau"
+	},
+	"u\u00e1i": {
+		"stressed": "\u00faa",
+		"unstressed": "\u00faa"
+	},
+	"ui": {
+		"stressed": "i",
+		"unstressed": "u"
+	},
+	"u\u00ed": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"\u00fai": {
+		"stressed": "\u00fa",
+		"unstressed": "\u00fa"
+	},
+	"u\u00edo": {
+		"stressed": "\u00ed",
+		"unstressed": "\u00ed"
+	},
+	"u\u00f3": {
+		"stressed": "\u00fa\u00f3",
+		"unstressed": "\u00fa\u00f3"
+	},
+	"u\u00f3i": {
+		"stressed": "\u00fa\u00f3",
+		"unstressed": "\u00fa\u00f3"
+	}
+}

@@ -1,0 +1,150 @@
+{
+	"b": {
+		"broad": "b",
+		"slender": "by"
+	},
+	"bh": {
+		"broad": "w",
+		"slender": "vy"
+	},
+	"bhf": {
+		"broad": "w",
+		"slender": "vy"
+	},
+	"bp": {
+		"broad": "b",
+		"slender": "by"
+	},
+	"c": {
+		"broad": "k",
+		"slender": "ky"
+	},
+	"ch": {
+		"broad": "k",
+		"slender": "\u015b"
+	},
+	"d": {
+		"broad": "d",
+		"slender": "dy"
+	},
+	"dh": {
+		"broad": "g",
+		"slender": "y"
+	},
+	"dt": {
+		"broad": "t",
+		"slender": "ty"
+	},
+	"f": {
+		"broad": "f",
+		"slender": "fy"
+	},
+	"fh": {
+		"broad": "",
+		"slender": ""
+	},
+	"g": {
+		"broad": "g",
+		"slender": "gy"
+	},
+	"gc": {
+		"broad": "g",
+		"slender": "gy"
+	},
+	"gh": {
+		"broad": "g",
+		"slender": "j"
+	},
+	"h": {
+		"broad": "h",
+		"slender": "h"
+	},
+	"j": {
+		"broad": "j",
+		"slender": "j"
+	},
+	"l": {
+		"broad": "l",
+		"slender": "ly"
+	},
+	"ll": {
+		"broad": "l",
+		"slender": "ly"
+	},
+	"m": {
+		"broad": "m",
+		"slender": "my"
+	},
+	"mb": {
+		"broad": "m",
+		"slender": "my"
+	},
+	"mh": {
+		"broad": "w",
+		"slender": "vy"
+	},
+	"n": {
+		"broad": "n",
+		"slender": "ny"
+	},
+	"nc": {
+		"broad": "\u014bk",
+		"slender": "nyky"
+	},
+	"nd": {
+		"broad": "n",
+		"slender": "ny"
+	},
+	"ng": {
+		"broad": "\u014b",
+		"slender": "ny"
+	},
+	"nn": {
+		"broad": "n",
+		"slender": "ny"
+	},
+	"p": {
+		"broad": "p",
+		"slender": "py"
+	},
+	"ph": {
+		"broad": "f",
+		"slender": "fy"
+	},
+	"r": {
+		"broad": "r",
+		"slender": "ry"
+	},
+	"rr": {
+		"broad": "r",
+		"slender": "r"
+	},
+	"s": {
+		"broad": "s",
+		"slender": "\u015b"
+	},
+	"sh": {
+		"broad": "h",
+		"slender": "h"
+	},
+	"t": {
+		"broad": "t",
+		"slender": "ty"
+	},
+	"th": {
+		"broad": "h",
+		"slender": "h"
+	},
+	"ts": {
+		"broad": "t",
+		"slender": "ty"
+	},
+	"v": {
+		"broad": "w",
+		"slender": "vy"
+	},
+	"z": {
+		"broad": "z",
+		"slender": "\u017a"
+	}
+}
