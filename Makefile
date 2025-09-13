@@ -1,8 +1,14 @@
-.PHONY: all run
+.PHONY: all post pre run
 
-all : run
+all : pre run post
+
+pre :
+	@clear
 
 run : $(wildcard *.js *.json)
 	@clear
-	@node script.js
+	@node scripts/script.js
+	@node scripts/readme.js
 	@echo
+
+post :

@@ -1,8 +1,8 @@
 {
 	"name": "irish-transcription",
 	"version": "1.0.0",
-	"description": "",
-	"main": "script.js",
+	"description": "This is a _(very2)_ rough transcriber of Ulster Irish pronunciation",
+	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
@@ -16,5 +16,6 @@
 	"bugs": {
 		"url": "https://github.com/JactusTheCactus/irish-transcription/issues"
 	},
-	"homepage": "https://github.com/JactusTheCactus/irish-transcription#readme"
+	"homepage": "https://github.com/JactusTheCactus/irish-transcription#readme",
+	"type": "module"
 }
