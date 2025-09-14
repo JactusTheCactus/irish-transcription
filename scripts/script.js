@@ -50,10 +50,15 @@ import { readJSON } from "./utility.js";
 			.replace(/(\w)h/g, "$1\u0307")
 		return `[${fmtString}]\n/${outputString}/\n`
 	};
-	//(await readJSON("data/input.json")).at(-1);
-	(await readJSON("data/input.json"))
-		.forEach(i => {
-			console.log(transcribe(i))
-		});
-	console.log(transcribe((await readJSON("data/input.json")).at(-1)));
+	if (true) {
+		console.log(transcribe(
+			(await readJSON("data/input.json"))
+				.at(-1)
+		))
+	} else {
+		(await readJSON("data/input.json"))
+			.forEach(i => {
+				console.log(transcribe(i))
+			});
+	}
 })();
